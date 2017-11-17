@@ -26,42 +26,45 @@ body {
 
 .header {
     text-align: center;
-    padding: 50px;
+    padding: 35px;
     margin-bottom: 10px;
-    color: #333;
-    background: #ccc;
+    background: #ebebeb;
 }
 
 .nav {
     text-align: center;
-    padding: 50px;
+    padding: 35px;
     margin-bottom: 10px;
-    color: #333;
-    background: #ccc;
+    background: #ebebeb;
 }
 
 .aside {
+    text-align: center;
     float: right;
-    margin-left: 10px;
-    padding: 155px;
-    color: #333;
-    background: #ccc;
+    padding-top: 20px;
+    height: 250px;
+    width: 350px;
+    background:#ebebeb ;
 
 }
 
 .section {
-    
+    padding-top:20px;
     text-align: center;
     width: 500px;
-    height: 332px;
+    height: 250px;
     border-right:5px;
-    background: #ccc;
+    background: #ebebeb;
 
 }
 
 
 .article {
-    background: #777;
+
+    bottom:75px;
+    width: 460px;
+    background:#777;
+    height:180px;
     margin: 20px;
     padding: 20px;
     color: #ebebeb;
@@ -69,16 +72,19 @@ body {
 
 .box1, .box2 {
     text-align: center;
-    background:#ebebeb;
-    margin-bottom: 10px; 
+    width:420px;
+    height: 50px;
+    margin-top:-8px;
+    margin-bottom: 15px;
+    padding: 12px;
+    background:#ebebeb; 
     color: #777;   
 }
 .footer {
     text-align: center;
-    padding: 50px;
+    padding: 35px;
     margin-bottom: 10px;
     margin-top: 10px;
-    color: #333;
-    background: #ccc;
+    background: #ebebeb;
     border-bottom:5px;
 }
